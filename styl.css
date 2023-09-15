@@ -8,7 +8,7 @@ body{
     border: 5px groove black;
     margin: auto;
     margin-top: 160px;
-    background: linear-gradient(rgb(51, 19, 234), rgb(244, 65, 154), rgb(81, 14, 238));
+    background-color: lightblue;
     border-radius: 50px;
 }
 #btn{
